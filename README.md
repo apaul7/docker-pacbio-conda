@@ -1,4 +1,4 @@
-#docker-pacbio-conda
+# docker-pacbio-conda
 docker image for running analydsis on PacBio data.
 
 So far only supports python2
