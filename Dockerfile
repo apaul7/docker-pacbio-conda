@@ -11,6 +11,7 @@ RUN apt-get update && apt-get install -y \
 
 RUN conda install -y -c bioconda \
   blasr"=5.3.3" \
-  pbsv"=2.3.0"
+  pbsv"=2.3.0" \
+  pbccs"=4.2.0"
 
 WORKDIR /
